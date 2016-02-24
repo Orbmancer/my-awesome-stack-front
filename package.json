@@ -1,0 +1,23 @@
+{
+  "name": "my-awesome-stack-front",
+  "version": "1.0.0",
+  "description": "Frontend example",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "git clone https://github.com/Orbmancer/my-awesome-stack-shared.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Orbmancer/my-awesome-stack-front.git"
+  },
+  "keywords": [
+    "front",
+    "stack"
+  ],
+  "author": "Orbmancer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orbmancer/my-awesome-stack-front/issues"
+  },
+  "homepage": "https://github.com/Orbmancer/my-awesome-stack-front"
+}
