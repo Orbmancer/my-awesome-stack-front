@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Orbmancer/my-awesome-stack-front/issues"
   },
-  "homepage": "https://github.com/Orbmancer/my-awesome-stack-front"
+  "homepage": "https://github.com/Orbmancer/my-awesome-stack-front",
+  "devDependencies": {
+    "browserify": "^13.0.0"
+  },
+  "dependencies": {
+    "app-module-path": "^1.0.5",
+    "request": "^2.69.0"
+  }
 }
