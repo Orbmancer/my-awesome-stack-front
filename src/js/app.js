@@ -5,7 +5,7 @@ var request = require('request');
 var api = "http://localhost:4242/gifs/random";
 
 window.randomizeFromShared = function() {
-    gif.getRandomGIF()
+    gif.getRandomGIF('kitten')
         .then(function(url){
             appendGIF(url);
         });
